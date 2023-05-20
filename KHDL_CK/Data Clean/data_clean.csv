@@ -210,7 +210,7 @@
 42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Thụy Sỹ, Victorinox,12267000
 45.4,Mineral Crystal,dây cao su ,Quartz,20,Nhật Bản, Casio,5515000
 45.4,Mineral Crystal,dây cao su,Quartz,20,Nhật Bản, Casio,3265000
-37.0,Mineral Crystal,thép không gỉ 316l,Automatic,5,Nhật Bản, Seiko,3600000
+37.0,Sapphire Crystal,thép không gỉ 316l,Automatic,5,Nhật Bản, Seiko,3600000
 41.0,Sapphire Crystal,dây da,Quartz,10,Thụy Sỹ, Wenger,4437000
 45.4,Mineral Crystal,dây kim loại ,Quartz,20,Nhật Bản, Casio,5788000
 45.4,Mineral Crystal,dây cao su ,Quartz,20,Nhật Bản, Casio,5608000
@@ -468,8 +468,6 @@
 42.0,Sapphire Crystal,dây da,Quartz,10,Áo,Philippe Auguste,5990000
 42.0,Sapphire Crystal,dây da,Quartz,10,Áo,Philippe Auguste,5536000
 42.0,Sapphire Crystal,dây da,Quartz,10,Áo,Philippe Auguste,5881000
-38.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Atlantic Swiss,121500000
-42.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Atlantic Swiss,103500000
 41.7,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,68670000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,72270000
 42.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,7146000
@@ -479,7 +477,6 @@
 41.0,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,5,Thụy Sỹ,Epos Swiss,55530000
 42.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Atlantic Swiss,29403000
 43.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,11403000
-42.0,Sapphire Crystal,dây da,Automatic,5,Hong Kong,Tourbillon Memorigin,135000000
 40.0,Krysternacrystal,thép không gỉ,Quartz,10, Áo,Jacques lemans,5715000
 36.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,4185000
 40.0,Krysternacrystal,dây da,Quartz,10,Áo,Jacques lemans,4752000
@@ -546,7 +543,7 @@
 40.0,Sapphire Crystal,dây da,Automatic,5, Áo,Philippe Auguste,10021000
 40.0,Sapphire Crystal,dây da,Automatic,5, Áo,Philippe Auguste,10627000
 40.0,Sapphire Crystal,thép không gỉ,Automatic,5, Áo,Philippe Auguste,10627000
-40.0,Mineral Crystal,dây da,Automatic,10,Áo,Jacques lemans,5760000
+40.0,Sapphire Crystal,dây da,Automatic,10,Áo,Jacques lemans,5760000
 40.0,Sapphire Crystal,dây da,Automatic,10,Áo,Jacques lemans,5760000
 40.0,Mineral Crystal,dây da,Automatic,10,Áo,Jacques lemans,5760000
 42.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Atlantic Swiss,29403000
@@ -559,7 +556,7 @@
 40.0,Krysternacrystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,6570000
 42.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,6498000
 43.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,9135000
-42.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,864000
+42.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,864000
 40.0,Krysternacrystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,4149000
 38.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,2448000
 38.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
@@ -567,11 +564,11 @@
 42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2905000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
 42.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,6498000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
 40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,1674000
 40.0,Krysternacrystal,dây da,Quartz,10,Áo,Jacques lemans,4752000
 36.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Singapore,Aries Gold,4680000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
 42.0,Sapphire Crystal,dây da,Quartz,5,Áo,Philippe Auguste,3344000
 39.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 40.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,6696000
@@ -755,22 +752,22 @@
 45.0,Mineral Crystal,dây da,Quartz,5,Singapore,Aries Gold,5418000
 38.0,Hardened Crystex Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,2844000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1449000
-40.0,Mineral Crystal,dây da,Automatic,5,Áo,Jacques lemans,11160000
+40.0,Sapphire Crystal,dây da,Automatic,5,Áo,Jacques lemans,11160000
 40.0,Hardened Crystex Crystal,dây da,Automatic,5,Áo,Jacques lemans,10413000
 38.0,Hardened Crystex Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,3699000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
 42.0,Krysternacrystal,dây da,Quartz,10,Áo,Jacques lemans,5715000
-40.0,Sapphire Crystal,thép không gỉ,Automatic,5,Áo,Jacques lemans,11700000
+40.0,Mineral Crystal,thép không gỉ,Automatic,5,Áo,Jacques lemans,11700000
 36.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,3105000
 42.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,5715000
 44.5,Sapphire Crystal,high-tech silicon,Quartz,10,Singapore,Aries Gold,7002000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
 42.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5139000
 42.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,5193000
 40.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,4275000
 38.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,2844000
-38.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,918000
+38.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,918000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
 40.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5715000
 44.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1274000
@@ -798,7 +795,7 @@
 41.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,3870000
 40.0,Hardened Crystex Crystal,dây da,Automatic,10,Áo,Jacques lemans,4950000
 40.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,3,Thụy Sỹ,Atlantic Swiss,9090000
-44.0,Mineral Crystal,dây da,Quartz,20,Áo,Jacques lemans,5220000
+44.0,Sapphire Crystal,dây da,Quartz,20,Áo,Jacques lemans,5220000
 42.0,Sapphire Crystal,dây da,Quartz,10,Áo,Philippe Auguste,5379000
 42.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5148000
 41.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,5220000
@@ -812,7 +809,7 @@
 42.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,4275000
 42.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,4851000
 42.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,5193000
-41.0,Mineral Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,3870000
+41.0,Sapphire Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,3870000
 38.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,2844000
 40.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,1409000
 40.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5427000
@@ -823,10 +820,10 @@
 38.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,2844000
 40.0,Perspex,dây da,Quartz,5,Áo,Jacques lemans,6498000
 40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,1323000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
 44.0,Hardened Crystex Crystal,dây da,Quartz,20,Áo,Jacques lemans,6291000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
 44.5,Sapphire Crystal,dây cao su,Quartz,5,Singapore,Aries Gold,7002000
 38.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,2844000
 42.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,4275000
@@ -853,19 +850,19 @@
 39.0,Sapphire Crystal,dây da,Hand-Wound,3,Thụy Sỹ,Epos Swiss,33750000
 40.0,Sapphire Crystal,thép không gỉ,Automatic,5, Áo,Philippe Auguste,12503000
 40.0,Sapphire Crystal,thép không gỉ,Automatic,5, Áo,Philippe Auguste,12503000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
 40.0,Sapphire Crystal,thép không gỉ ,Quartz,5,Thụy Sỹ,Atlantic Swiss,8892000
 40.0,Sapphire Crystal,dây da,Automatic,5,Áo,Jacques lemans,10440000
 38.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,3699000
 44.5,Sapphire Crystal,high-tech silicon ,Quartz,5,Singapore,Aries Gold,6462000
 37.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,7362000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
 40.0,Sapphire Crystal,dây da,Quartz,3,Singapore,Aries Gold,3330000
 39.0,Perspex,dây da,Quartz,5,Áo,Jacques lemans,6498000
 40.0,Mineral Crystal,dây da,Automatic,5,Nhật Bản,Citizen,4779000
 30.0,Hardened Crystex Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,7281000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1674000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1674000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
 44.0,Hardened Crystex Crystal,thép không gỉ,Quartz,20,Áo,Jacques lemans,7146000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,12582000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
@@ -880,11 +877,11 @@
 40.0,Perspex,dây da,Quartz,5,Áo,Jacques lemans,5193000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1755000
 42.0,Krysternacrystal,dây da,Quartz,5,Áo,Jacques lemans,3888000
-40.0,Hardlex Crystal,dây da,Quartz,3,Thụy Sỹ,Atlantic Swiss,7515000
+40.0,Mineral Crystal,dây da,Quartz,3,Thụy Sỹ,Atlantic Swiss,7515000
 40.0,Sapphire Crystal,dây da,Quartz,3,Thụy Sỹ,Atlantic Swiss,7551000
 40.0,Krysternacrystal,dây da,Quartz,5,Áo,Jacques lemans,3888000
 40.0,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Citizen,2808000
-40.0,Mineral Crystal,thép không gỉ,Automatic,5,Áo,Jacques lemans,11700000
+40.0,Sapphire Crystal,thép không gỉ,Automatic,5,Áo,Jacques lemans,11700000
 40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,1674000
 40.8,Mineral Crystal,thép không gỉ,Automatic,5,Nhật Bản,Citizen,5463000
 44.0,Sapphire Crystal,dây da,Quatz ,5,Singapore,Aries Gold,5292000
@@ -909,7 +906,7 @@
 42.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,11763000
 42.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,11763000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,2808000
-40.2,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,7272000
+40.4,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,7272000
 40.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,1873000
 45.0,Mineral Crystal,dây da,Quatz ,5,Singapore,Aries Gold,5418000
 39.0,Mineral Crystal,thép không gỉ ,Quatz ,5,Nhật Bản,Citizen,4095000
@@ -918,7 +915,7 @@
 40.0,Krysternacrystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,4149000
 40.0,Mineral Crystal,thép không gỉ ,Automatic,5,Nhật Bản,Citizen,5391000
 42.0,Krysternacrystal,dây da,Quartz,5,Áo,Jacques lemans,3888000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
 40.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,4275000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,11106000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,11106000
@@ -941,23 +938,22 @@
 40.0,Krysternacrystal,dây da,Quartz,5,Áo,Jacques lemans,4671000
 42.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,9135000
 41.0,Hardened Crystex Crystal,thép không gỉ ,Quartz,10,Áo,Jacques lemans,7020000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1501000
 42.0,Krysternacrystal,dây da,Quartz,5,Áo,Jacques lemans,4671000
 38.0,Hardened Crystex Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,2844000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1674000
-39.6,Sapphire Crystal,thép không gỉ,Quartz,7,Nhật Bản,Q&Q,1325000
+41.6,Mineral Crystal,thép không gỉ,Quartz,9,Nhật Bản,Q&Q,1325000
 41.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,3888000
 36.0,Hardened Crystex Crystal,thép không gỉ mạ demi pvd rose gold,Quartz,10,Áo,Jacques lemans,5193000
 40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,1323000
 40.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,8307000
 41.0,Mineral Crystal,dây da,Automatic,5,Nhật Bản,Citizen,5121000
 42.0,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,5,Thụy Sỹ,Atlantic Swiss,24435000
-42.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Atlantic Swiss,117000000
 40.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5715000
 40.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5715000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,2727000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1647000
-40.0,Mineral Crystal,thép không gỉ,Automatic,5,Áo,Jacques lemans,12510000
+40.0,Sapphire Crystal,thép không gỉ,Automatic,5,Áo,Jacques lemans,12510000
 40.0,Mineral Crystal,dây da,Quartz,3,Singapore,Aries Gold,2228000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,14733000
 40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,1323000
@@ -989,8 +985,8 @@
 39.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Epos Swiss,25830000
 39.0,Sapphire Crystal,thép không gỉ,Hand-Wound,3,Thụy Sỹ,Epos Swiss,34830000
 40.0,Sapphire Crystal,dây da,Quartz,5,Áo,Jacques lemans,3330000
-40.0,Mineral Crystal,dây da,Quartz,5,Áo,Jacques lemans,3330000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,2610000
+40.0,Sapphire Crystal,dây da,Quartz,5,Áo,Jacques lemans,3330000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,2610000
 38.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,11502000
 43.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,11403000
 41.0,Mineral Crystal,thép không gỉ mạ pvd,Quatz ,5,Nhật Bản,Citizen,3771000
@@ -1004,7 +1000,7 @@
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Singapore,Aries Gold,6822000
 42.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,6912000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Singapore,Aries Gold,7182000
-40.5, Resin Glass,thép không gỉ,Quartz,7,Nhật Bản,Q&Q,1325000
+39.1,Sapphire Crystal,thép không gỉ,Quartz,9,Nhật Bản,Q&Q,1325000
 40.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,1873000
 39.0,Perspex,dây da,Quartz,5,Áo,Jacques lemans,6498000
 41.5,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Epos Swiss,12330000
@@ -1016,7 +1012,7 @@
 42.0,Sapphire Crystal,thép không gỉ ,Quartz,3,Thụy Sỹ,Atlantic Swiss,10062000
 39.0,Hardened Crystex Crystal,thép không gỉ mạ pvd,Quartz,10,Áo,Jacques lemans,4563000
 38.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,2583000
-40.0,Sapphire Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,1323000
+40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,1323000
 41.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1091000
 39.0,Mineral Crystal,thép không gỉ ,Quatz ,5,Nhật Bản,Citizen,2808000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,7515000
@@ -1030,7 +1026,7 @@
 39.0,Perspex,dây da,Quatz ,5,Áo,Jacques lemans,5193000
 40.0,Hardened Crystex Crystal,thép không gỉ mạ pvd rose gold,Quartz,10,Áo,Jacques lemans,4932000
 44.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Thụy Sỹ,Atlantic Swiss,13842000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1647000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1647000
 45.0,Mineral Crystal,dây da,Quartz,5,Singapore,Aries Gold,4428000
 39.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,3699000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Singapore,Aries Gold,7992000
@@ -1053,9 +1049,9 @@
 40.0,Sapphire Crystal,dây da,Quartz,3,Singapore,Aries Gold,3150000
 42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
 42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
-41.8,Sapphire Crystal,thép không gỉ,Quartz,7,Nhật Bản,Q&Q,1812000
+40.9,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1812000
 38.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1177000
-34.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1328000
+34.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1328000
 40.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,33930000
 40.0,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,3,Thụy Sỹ,Epos Swiss,42750000
 40.0,Mineral Crystal,dây da,Automatic,5,Nhật Bản,Citizen,5121000
@@ -1067,13 +1063,13 @@
 40.0,Mineral Crystal,thép không gỉ mạ pvd,Quatz ,5,Nhật Bản,Citizen,3411000
 40.0,Mineral Crystal,thép không gỉ ,Automatic,5,Nhật Bản,Citizen,5805000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
-40.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+40.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 31.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,724000
 40.0,Mineral Crystal,thép không gỉ,Automatic,5,Nhật Bản,Citizen,4716000
 41.5,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Epos Swiss,13230000
 40.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,33930000
-39.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
-40.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+39.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
+40.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 42.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,5193000
 40.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Singapore,Aries Gold,7992000
@@ -1096,7 +1092,7 @@
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,7191000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,9162000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,9162000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1674000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1674000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,9342000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,9342000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,14733000
@@ -1111,16 +1107,16 @@
 38.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,2583000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5220000
 42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,7146000
-42.0,Mineral Crystal,dây da,Automatic,10,Áo,Jacques lemans,7803000
+42.0,Sapphire Crystal,dây da,Automatic,10,Áo,Jacques lemans,7803000
 44.0,Sapphire Crystal,dây da,Quartz,20,Áo,Jacques lemans,6480000
-44.0,Mineral Crystal,dây da,Quartz,20,Áo,Jacques lemans,6480000
-38.0,Mineral Crystal,dây da,Quartz,5,Áo,Jacques lemans,2610000
-38.0,Mineral Crystal,dây da,Quartz,5,Áo,Jacques lemans,2610000
+44.0,Sapphire Crystal,dây da,Quartz,20,Áo,Jacques lemans,6480000
 38.0,Sapphire Crystal,dây da,Quartz,5,Áo,Jacques lemans,2610000
+38.0,Mineral Crystal,dây da,Quartz,5,Áo,Jacques lemans,2610000
+38.0,Mineral Crystal,dây da,Quartz,5,Áo,Jacques lemans,2610000
 38.0,Sapphire Crystal,dây da,Quartz,5,Áo,Jacques lemans,3330000
-38.0,Sapphire Crystal,dây da,Quartz,5,Áo,Jacques lemans,3330000
+38.0,Mineral Crystal,dây da,Quartz,5,Áo,Jacques lemans,3330000
 40.0,Sapphire Crystal,dây da,Automatic,10,Áo,Jacques lemans,4950000
-40.0,Sapphire Crystal,dây da,Quartz,10,Áo,Jacques lemans,2610000
+40.0,Mineral Crystal,dây da,Quartz,10,Áo,Jacques lemans,2610000
 40.0,Sapphire Crystal,dây da,Quartz,10,Áo,Jacques lemans,2610000
 42.0,Sapphire Crystal,dây da,Quartz,5,Singapore,Aries Gold,4928000
 42.0,Sapphire Crystal,dây da,Quartz,5,Singapore,Aries Gold,4703000
@@ -1145,11 +1141,11 @@
 41.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3150000
 40.0,Mineral Crystal,thép không gỉ,Quartz,3,Singapore,Aries Gold,2228000
 40.0,Krysternacrystal,dây da,Quartz,10,Áo,Jacques lemans,5445000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1573000
-39.7,Hardlex Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,1325000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1573000
+39.1,Hardlex Crystal,thép không gỉ,Quartz,8,Nhật Bản,Q&Q,1325000
 39.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,33120000
 42.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,7092000
-39.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
+39.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 44.0,Sapphire Crystal,dây da,Quatz ,5,Singapore,Aries Gold,5292000
 43.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,30870000
 36.0,Krysternacrystal,thép không gỉ,Eco-Drive ,3,Nhật Bản,Citizen,4788000
@@ -1161,15 +1157,15 @@
 40.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 39.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 40.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
-40.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
+40.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 38.0,Perspex,dây da,Hand-Wound,5,Áo,Jacques lemans,7803000
 41.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,17973000
-40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,1674000
+40.0,Sapphire Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,1674000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,13653000
-42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
+42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
 42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
 43.0,Sapphire Crystal,dây da,Quartz,5,Đức,Bruno Sohnle,12447000
-52.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+52.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
 42.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,7092000
 40.0,Sapphire Crystal,dây da,Quartz,5,Đức,Bruno Sohnle,10080000
 42.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Atlantic Swiss,21384000
@@ -1177,7 +1173,7 @@
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1944000
 42.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 41.5,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Epos Swiss,13230000
-57.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,724000
+57.0,Sapphire Crystal,dây da,Quartz,5,Nhật Bản,Q&Q,724000
 40.0,Sapphire Crystal,thép không gỉ,Automatic,5,Áo,Jacques lemans,11700000
 42.0,Hardened Crystex Crystal,dây da,Automatic,10,Áo,Jacques lemans,7803000
 36.5,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,5,Singapore,Aries Gold,8143000
@@ -1187,7 +1183,7 @@
 40.0,Mineral Crystal,thép không gỉ,Automatic,5,Nhật Bản,Citizen,7328000
 41.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,16713000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Nhật Bản,Citizen,8109000
-42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
+42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
 42.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,6912000
 42.0,Hardened Crystex Crystal,thép không gỉ mạ demi pvd ,Automatic,20,Áo,Jacques lemans,10413000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,8982000
@@ -1214,12 +1210,12 @@
 40.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,4275000
 40.0,Mineral Crystal,thép không gỉ,Automatic,5,Nhật Bản,Citizen,4950000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Atlantic Swiss,20304000
-40.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,724000
+40.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,724000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,11439000
 44.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,886000
 42.0,Sapphire Crystal,dây da,Automatic,5,Đức,Bruno Sohnle,26775000
 40.5,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,24390000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1573000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1573000
 42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
 38.0,Sapphire Crystal,thép không gỉ ,Quartz,5,Singapore,Aries Gold,4028000
 41.0,Sapphire Crystal,dây da,Quartz,5,Singapore,Aries Gold,3582000
@@ -1237,7 +1233,7 @@
 45.5,Sapphire Crystal,dây cao su,Quartz,5,Singapore,Aries Gold,6462000
 44.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,4752000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1573000
-42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
 42.0,Krysternacrystal,dây da,Quartz,5,Nhật Bản,Citizen,3150000
 42.0,Sapphire Crystal,thép không gỉ ,Automatic,5,Thụy Sỹ,Atlantic Swiss,20304000
 41.0,Mineral Crystal,thép không gỉ ,Quatz ,5,Nhật Bản,Citizen,3033000
@@ -1245,7 +1241,7 @@
 30.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,7803000
 44.0,Sapphire Crystal,dây da,Quartz,20,Thụy Sỹ,Atlantic Swiss,21384000
 40.0,Mineral Crystal,dây da,Quartz,3,Singapore,Aries Gold,2228000
-44.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,886000
+44.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,886000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1323000
 44.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,886000
 41.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3663000
@@ -1268,42 +1264,42 @@
 38.5,Sapphire Crystal,thép không gỉ mạ vàng pvd,Automatic,5,Thụy Sỹ,Epos Swiss,35280000
 43.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,3366000
 40.0,Mineral Crystal,thép không gỉ,Automatic,5,Nhật Bản,Citizen,4950000
-47.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
+47.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
 44.0,Sapphire Crystal,thép không gỉ,Quartz,20,Thụy Sỹ,Atlantic Swiss,26595000
 36.0,Sapphire Crystal,thép không gỉ,Quartz,3,Singapore,Aries Gold,4478000
 39.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3546000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,11439000
 42.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Atlantic Swiss,19764000
 38.0,Hardened Crystex Crystal,thép không gỉ mạ pvd,Quartz,5,Áo,Jacques lemans,7803000
-39.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
+39.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
 42.0,Sapphire Crystal,dây da,Quartz,5,Nhật Bản,Citizen,2808000
 36.0,Sapphire Crystal,dây da,Quartz,10,Đức,Bruno Sohnle,11655000
 36.5,Sapphire Crystal,thép không gỉ,Automatic,5,Singapore,Aries Gold,7002000
 43.6, Resin Glass,dây da,Quartz,5,Nhật Bản,Casio,489000
-43.6, Resin Glass,dây da,Quartz,5,Nhật Bản,Casio,489000
+43.6, Resin Glass,thép không gỉ,Quartz,5,Nhật Bản,Casio,489000
 38.8,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2465000
-38.8,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2465000
-38.8,Sapphire Crystal,dây da,Quartz,5,Nhật Bản,Casio,2465000
+38.8,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2465000
+38.8,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2465000
 41.3,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2332000
 38.0,Perspex,dây da,Quartz,5,Áo,Jacques lemans,6498000
-40.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Casio,932000
+40.0,Sapphire Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,932000
 42.5,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,10242000
 40.0,Sapphire Crystal,dây da,Quartz,20,Áo,Jacques lemans,5742000
 41.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,4779000
-45.0,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1466000
+45.0,Sapphire Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1466000
 40.0,Mineral Crystal,dây da,Eco-Drive,5,Nhật Bản,Citizen,5544000
 44.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1318000
 39.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3411000
-42.0,Mineral Crystal,thép không gỉ,Eco-Drive,7,Nhật Bản,Citizen,7686000
+42.0,Mineral Crystal,thép không gỉ,Eco-Drive,9,Nhật Bản,Citizen,7686000
 38.0,Sapphire Crystal,thép không gỉ ,Automatic,5,Thụy Sỹ,Atlantic Swiss,23355000
 42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
 41.5,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1866000
 41.5,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1866000
-41.5,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,1466000
-41.5,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,1466000
 41.5,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1466000
 41.5,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1466000
-38.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,734000
+41.5,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,1466000
+41.5,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,1466000
+38.0,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,734000
 38.0,Sapphire Crystal,thép không gỉ ,Quartz,5,Singapore,Aries Gold,4478000
 42.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,8082000
 42.0,Sapphire Crystal,dây da,Hand-Wound,5,Thụy Sỹ,Epos Swiss,52920000
@@ -1312,80 +1308,80 @@
 37.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,778000
 38.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,1111000
 44.7,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,2621000
-40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,2621000
-46.8,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2709000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2621000
+46.8,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,2709000
 42.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2132000
-42.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2132000
-44.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,2465000
+42.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,2132000
+44.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,2465000
 40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1711000
-40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1711000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,1711000
 41.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,1866000
 42.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,15273000
-40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1466000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,1466000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,10,Áo,Jacques lemans,9108000
 42.0,Sapphire Crystal,dây da,Quartz,10,Áo,Jacques lemans,5220000
-42.0,Sapphire Crystal,dây da,Quartz,10,Áo,Jacques lemans,5220000
-42.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,1866000
+42.0,Mineral Crystal,dây da,Quartz,10,Áo,Jacques lemans,5220000
+42.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1866000
 40.0,Perspex,dây da,Quartz,5,Áo,Jacques lemans,5193000
-42.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,1866000
+42.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1866000
 42.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1866000
 40.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1377000
-38.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,1288000
 38.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1288000
-41.5,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Casio,1288000
-40.0,Mineral Crystal,dây da,Quartz,5,Áo,Casio,1288000
+38.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1288000
+41.5,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Casio,1288000
+41.5,Mineral Crystal,dây da,Quartz,5,Mỹ,Casio,1288000
 41.7,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,68670000
-37.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,867000
+37.0,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,867000
 36.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,867000
 43.5,Sapphire Crystal,dây da,Hand-Wound,5,Thụy Sỹ,Epos Swiss,55980000
-36.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,1066000
+36.0,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1066000
 37.2,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,977000
 37.0,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1310000
 42.0,Sapphire Crystal,dây da,Quartz,5,Singapore,Aries Gold,4928000
-35.8,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,1266000
+35.8,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1266000
 46.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
 43.8,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
-43.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+43.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
 43.8,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
-47.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
-43.8,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,4242000
-43.8,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,4242000
+47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+43.8,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,4242000
+43.8,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,4242000
 47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,4287000
 47.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3887000
 48.4,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,4509000
-47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+47.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
 49.5,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,4086000
-49.5,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,4486000
-42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+49.5,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,4486000
+42.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
 50.6,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3353000
 46.9,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3887000
-46.6,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
+46.6,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
 44.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
 43.8,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
-43.8,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
-44.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+43.8,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
+44.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
+42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+43.8,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
+43.8,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
+47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
+47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
 42.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
 43.8,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
-43.8,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
-47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
-47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
-47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
-42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
 43.8,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
-43.8,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
 42.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
 45.6,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,4664000
 45.4,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,4664000
 41.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1177000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,4131000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,4131000
+47.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
 47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
-47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
-47.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3420000
+47.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3420000
 41.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3176000
-48.5,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3020000
-8.9,Krysternacrystal,thép không gỉ,Quartz,20,Nhật Bản,Casio,3020000
-36.5,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Casio,1643000
+48.5,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3020000
+8.9,Krysternacrystal,dây da,Quartz,20,Nhật Bản,Casio,3020000
+36.5,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Casio,1643000
 40.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,3366000
 42.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Philippe Auguste,4596000
 41.0,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,5,Thụy Sỹ,Epos Swiss,38340000
@@ -1397,7 +1393,7 @@
 42.0,Sapphire Crystal,dây da,Quartz,5,Nhật Bản,Citizen,3321000
 42.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Citizen,3015000
 37.0,Sapphire Crystal,dây da,Quartz,5,Đức,Bruno Sohnle,7092000
-45.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1156000
+45.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1156000
 45.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,929000
 38.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 40.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,30510000
@@ -1407,10 +1403,10 @@
 40.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 35.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,4028000
 40.5,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,3,Thụy Sỹ,Epos Swiss,27360000
-40.0,Mineral Crystal,dây da,Quartz,20,Áo,Jacques lemans,5742000
+40.0,Sapphire Crystal,dây da,Quartz,20,Áo,Jacques lemans,5742000
 44.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
 38.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,12582000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
+40.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Q&Q,2391000
 49.5,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,4486000
 38.0,Hardened Crystex Crystal,thép không gỉ mạ demi pvd,Quartz,5,Áo,Jacques lemans,4563000
 38.5,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,3,Đức,Bruno Sohnle,15597000
@@ -1423,9 +1419,9 @@
 41.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,4671000
 39.0,Sapphire Crystal,dây da,Hand-Wound ,3,Thụy Sỹ,Epos Swiss,32850000
 38.0,Hardened Crystex Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,3699000
-44.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
+44.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
 40.0,Perspex,dây da,Quartz,5,Áo,Jacques lemans,6498000
-43.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1048000
+43.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1048000
 40.0,Sapphire Crystal,dây da,Quartz,10,Thụy Sỹ,Atlantic Swiss,10602000
 48.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
 41.0,Mineral Crystal,dây da,Automatic,5,Nhật Bản,Citizen,4779000
@@ -1435,36 +1431,36 @@
 40.0,Hardened Crystex Crystal,dây da,Quartz,5, Áo,Jacques lemans,2583000
 42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3176000
 40.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,19044000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1573000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1573000
 38.0,Sapphire Crystal,thép  không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,11700000
 39.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,26550000
-40.3,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,767000
+41.2,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,767000
 35.0,Sapphire Crystal,thép không gỉ mạ demi pvd,Quartz,5,Singapore,Aries Gold,4925000
 36.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,3803000
 40.0,Mineral Crystal,thép không gỉ mạ pvd,Quartz,3,Nhật Bản,Citizen,3636000
 39.0,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,3,Thụy Sỹ,Epos Swiss,38520000
 42.0,Krysternacrystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,853000
-54.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1563000
+54.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1563000
 38.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
 38.0,Sapphire Crystal,dây da,Quartz,3,Đức,Bruno Sohnle,14022000
 42.0,Perspex,dây da,Quartz,5,Áo,Jacques lemans,5193000
-41.0,Hardlex Crystal,dây da,Quartz,10,Áo,Jacques lemans,3888000
+41.0,Mineral Crystal,dây da,Quartz,10,Áo,Jacques lemans,3888000
 41.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,5193000
 39.0,Sapphire Crystal,dây da,Hand-Wound ,3,Thụy Sỹ,Epos Swiss,32850000
 39.0,Sapphire Crystal,thép không gỉ mạ vàng pvd,Hand-Wound ,3,Thụy Sỹ,Epos Swiss,33930000
 39.0,Sapphire Crystal,thép không gỉ mạ vàng pvd,Hand-Wound ,3,Thụy Sỹ,Epos Swiss,33930000
-55.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
+55.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
 45.0,Mineral Crystal,dây da,Quartz,5,Singapore,Aries Gold,5418000
-44.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1048000
+44.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1048000
 42.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1112000
-38.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
+38.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
 40.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,3888000
-40.0, Resin Glass,thép  không gỉ ,Quartz,10,Thụy Sỹ,Atlantic Swiss,20124000
+40.0,Acrylic Crystal,thép  không gỉ ,Quartz,10,Thụy Sỹ,Atlantic Swiss,20124000
 50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,725000
 42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Citizen,3411000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,34290000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,4028000
-45.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1069000
+45.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1069000
 46.0,Mineral Crystal,dây cao su,Automatic,10,Nhật Bản,Citizen,5814000
 46.0,Mineral Crystal,dây cao su,Automatic,10,Nhật Bản,Citizen,5814000
 37.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,4149000
@@ -1472,7 +1468,7 @@
 35.0,Sapphire Crystal,thép không gỉ mạ demi pvd,Quartz,5,Singapore,Aries Gold,4925000
 42.0,Hardened Crystex Crystal,thép không gỉ,Automatic,10,Áo,Jacques lemans,7803000
 42.0,Sapphire Crystal,dây da,Quartz,5,Đức,Bruno Sohnle,14652000
-33.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1015000
+33.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1015000
 36.5,Sapphire Crystal,thép không gỉ,Automatic,5,Singapore,Aries Gold,7002000
 40.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,7182000
 39.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3168000
@@ -1482,7 +1478,7 @@
 47.0,Mineral Crystal,dây da,Quartz,10,Nhật Bản,Casio,3420000
 38.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,3699000
 40.0,Sapphire Crystal,dây da,Quartz,5,Đức,Bruno Sohnle,9927000
-38.0,Sapphire Crystal,dây da,Quartz,5,Áo,Jacques lemans,3699000
+38.0,Mineral Crystal,dây da,Quartz,5,Áo,Jacques lemans,3699000
 41.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,3888000
 42.0,Sapphire Crystal,thép không gỉ,Quartz,3,Thụy Sỹ,Atlantic Swiss,8496000
 45.0,Krysternacrystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
@@ -1493,12 +1489,12 @@
 42.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1210000
 40.0,Hardened Crystex Crystal,thép không gỉ mạ demi pvd rose gold,Quartz,10,Áo,Jacques lemans,6498000
 52.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5427000
+40.0, Resin Glass,thép không gỉ,Quartz,10,Áo,Jacques lemans,5427000
 44.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
-54.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1102000
+54.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1102000
 50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
 38.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Thụy Sỹ,Atlantic Swiss,15813000
-38.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+38.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 38.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 39.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,2808000
 41.5,Krysternacrystal,thép không gỉ,Eco-Drive ,3,Nhật Bản,Citizen,4788000
@@ -1507,9 +1503,9 @@
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,4028000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,34290000
 39.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,4095000
+48.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,735000
 48.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,735000
-48.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,735000
-43.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1134000
+43.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1134000
 52.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
 42.0,Sapphire Crystal,dây da,Quartz,10,Thụy Sỹ,Atlantic Swiss,16533000
 44.0,Hardened Crystex Crystal,dây da,Quartz,20,Áo,Jacques lemans,7146000
@@ -1521,8 +1517,8 @@
 41.0,Sapphire Crystal,thép không gỉ ,Quartz,10,Thụy Sỹ,Atlantic Swiss,12582000
 40.5,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,3,Thụy Sỹ,Epos Swiss,27360000
 41.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Thụy Sỹ,Atlantic Swiss,19044000
-39.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1294000
-43.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1069000
+39.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1294000
+43.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1069000
 49.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1102000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,72270000
 40.5,Sapphire Crystal,dây da,Quartz,10,Đức,Bruno Sohnle,16857000
@@ -1540,39 +1536,39 @@
 40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3636000
 40.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,3888000
 39.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,33120000
-42.0,Sapphire Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,5193000
+42.0,Mineral Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,5193000
 44.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,3888000
 38.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,12582000
 42.0,Perspex,dây da,Automatic,5,Áo,Jacques lemans,7803000
 42.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Thụy Sỹ,Atlantic Swiss,15273000
-55.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1609000
+55.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1609000
 46.2,Mineral Crystal,dây cao su,Automatic,10,Nhật Bản,Citizen,4959000
 42.0,Sapphire Crystal,dây da,Quartz,10,Thụy Sỹ,Atlantic Swiss,10125000
 40.0,Sapphire Crystal,dây da,Quartz,3,Đức,Bruno Sohnle,14337000
 42.0,Sapphire Crystal,dây da,Quartz,10,Thụy Sỹ,Atlantic Swiss,12222000
 55.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,2041000
-55.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,2041000
+55.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,2041000
 38.0,Sapphire Crystal,dây da,Quartz,3,Đức,Bruno Sohnle,11817000
 52.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
-50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
+50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
 44.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,950000
-45.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
+45.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
 38.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
-40.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,875000
+40.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,875000
 36.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1177000
 38.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Thụy Sỹ,Atlantic Swiss,15813000
 38.0,Sapphire Crystal,thép không gỉ ,Quartz,5,Thụy Sỹ,Atlantic Swiss,13293000
 48.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
-40.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1048000
-41.7,Sapphire Crystal,dây da,Eco-Drive ,3,Nhật Bản,Citizen,6201000
-44.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+40.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1048000
+41.8,Sapphire Crystal,dây da,Eco-Drive ,3,Nhật Bản,Citizen,6201000
+44.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 42.0,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,5,Singapore,Aries Gold,6552000
 41.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,2970000
 39.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3582000
 41.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Citizen,4950000
 41.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,637000
 41.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Citizen,2727000
-41.7,Sapphire Crystal,thép không gỉ,Automatic,6,Thụy Sỹ,Epos Swiss,63900000
+41.7,Sapphire Crystal,thép không gỉ,Automatic,10,Thụy Sỹ,Epos Swiss,63900000
 41.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,637000
 42.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,63270000
 46.2,Mineral Crystal,dây cao su,Automatic,10,Nhật Bản,Citizen,4959000
@@ -1581,8 +1577,8 @@
 45.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,929000
 33.0,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Citizen,3834000
 42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Singapore,Aries Gold,4478000
-35.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
-44.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,983000
+35.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
+44.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,983000
 43.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,5603000
 24.0,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Citizen,3582000
 39.0,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,5,Thụy Sỹ,Epos Swiss,38520000
@@ -1593,7 +1589,7 @@
 43.5,Sapphire Crystal,dây da,Hand-Wound,10,Thụy Sỹ,Epos Swiss,40050000
 41.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,4779000
 42.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1048000
-49.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1102000
+49.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1102000
 41.0,Sapphire Crystal,thép không gỉ ,Quartz,10,Thụy Sỹ,Atlantic Swiss,12582000
 40.5,Sapphire Crystal,thép không gỉ,Quartz,10,Đức,Bruno Sohnle,19215000
 40.0,Mineral Crystal,thép không gỉ,Automatic,5,Nhật Bản,Citizen,7328000
@@ -1627,7 +1623,7 @@
 42.5,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Singapore,Aries Gold,6278000
 42.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,10458000
 44.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5193000
-40.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
+40.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
 42.0,Sapphire Crystal,dây da,Quartz,10,Thụy Sỹ,Atlantic Swiss,11268000
 46.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,11003000
 55.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,2041000
@@ -1660,17 +1656,17 @@
 43.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,29700000
 43.0,Sapphire Crystal,thép không gỉ,Automatic,10,Thụy Sỹ,Epos Swiss,31770000
 40.0,Mineral Crystal,thép không gỉ mạ pvd,Quartz,5,Nhật Bản,Citizen,3645000
-44.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,983000
+44.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,983000
 43.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Nhật Bản,Philippe Auguste,17999000
 44.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,29700000
 43.0,Sapphire Crystal,thép không gỉ,Automatic,10,Thụy Sỹ,Epos Swiss,31770000
 38.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
-47.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
+47.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
 42.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,7677000
 42.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,8289000
 39.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,31410000
-50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,886000
+50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,886000
 30.0,Sapphire Crystal,dây da,Quartz,5,Singapore,Aries Gold,4925000
 38.0,Sapphire Crystal,dây da,Eco-Drive ,3,Nhật Bản,Citizen,4788000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,68400000
@@ -1684,37 +1680,37 @@
 42.0,Krysternacrystal,dây da,Eco-Drive ,10,Nhật Bản,Citizen,4617000
 43.0,Sapphire Crystal,dây da,Quartz,10,Đức,Bruno Sohnle,18747000
 44.0,Mineral Crystal,thép không gỉ,Eco-Drive ,5,Nhật Bản,Citizen,4851000
-50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
-44.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,886000
+50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
+44.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,886000
 41.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,25290000
 41.0,Krysternacrystal,dây da,Quartz,5,Nhật Bản,Citizen,3015000
-48.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,735000
+48.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,735000
 40.0,Mineral Crystal,thép không gỉ mạ pvd,Quartz,5,Nhật Bản,Citizen,3582000
 40.0,Sapphire Crystal,thép không gỉ,Automatic,3,Thụy Sỹ,Epos Swiss,42750000
 41.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,637000
 40.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,10422000
-52.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
+52.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
 40.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,6804000
 34.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3078000
 37.0,Hardened Crystex Crystal,thép không gỉ mạ pvd,Quartz,5,Áo,Jacques lemans,5976000
 43.0,Sapphire Crystal,dây cao su,Automatic,50,Thụy Sỹ,Epos Swiss,45000000
 38.0,Sapphire Crystal,dây da,Quartz,3,Đức,Bruno Sohnle,14022000
-40.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
+40.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,637000
 40.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Singapore,Aries Gold,4928000
 40.0,Krysternacrystal,dây da,Quartz,5,Áo,Jacques lemans,2583000
 42.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,4266000
 42.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,5571000
 42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Citizen,3150000
 42.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Atlantic Swiss,20304000
-40.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
-41.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,6435000
+40.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
+41.0,Mineral Crystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,6435000
 41.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,6435000
 42.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,6435000
 39.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3582000
 44.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,5976000
 42.0,Mineral Crystal,dây dù,Quartz,10,Nhật Bản,Citizen,3411000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,51750000
-43.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1056000
+43.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1056000
 40.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 40.5,Sapphire Crystal,dây da,Quartz,10,Đức,Bruno Sohnle,16857000
 42.0,Krysternacrystal,"dây vải, dù",Quartz,5,Thụy Sỹ,Stuhrling Original,4581000
@@ -1757,40 +1753,40 @@
 44.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,8352000
 50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
 41.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,6498000
-33.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,518000
+33.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,518000
 40.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1102000
-45.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1382000
+45.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1382000
 39.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,31860000
 40.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,6498000
-34.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
-39.0,Sapphire Crystal,dây da,Automatic,3,Mỹ,Epos Swiss,31860000
+34.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
+39.0,Sapphire Crystal,dây da,Automatic,3,Thụy sỹ,Epos Swiss,31860000
 40.0,Sapphire Crystal,dây da,Quartz,3,Singapore,Aries Gold,3353000
 40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Thụy Sỹ,Atlantic Swiss,10674000
-45.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+45.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 44.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,5571000
 45.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
 42.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,6741000
 39.0,Mineral Crystal,thép không gỉ mạ pvd,Quatz ,5,Nhật Bản,Citizen,3591000
-42.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1112000
-36.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1177000
+42.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1112000
+36.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1177000
 39.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
-34.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
-47.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1069000
+34.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+47.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1069000
 42.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,2583000
-40.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,950000
+40.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,950000
 40.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,4275000
 40.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,4275000
 39.0,Sapphire Crystal,dây da,Eco-Drive ,3,Nhật Bản,Citizen,5904000
 30.0,Sapphire Crystal,dây da,Quartz,5,Singapore,Aries Gold,4028000
-40.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+40.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 40.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,3888000
 42.0,Mineral Crystal,thép không gỉ,Eco-Drive ,5,Nhật Bản,Citizen,4518000
 40.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,3888000
 36.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Singapore,Aries Gold,4253000
 35.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1361000
-41.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
+41.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 38.0,Sapphire Crystal,dây da,Quartz,3,Đức,Bruno Sohnle,11817000
-37.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1177000
+37.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1177000
 41.0,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,52020000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,51750000
 39.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Citizen,3330000
@@ -1800,21 +1796,21 @@
 44.0,Krysternacrystal,dây da,Automatic,5,Thụy Sỹ,Stuhrling Original,10521000
 44.0,Krysternacrystal,dây da,Automatic,5,Thụy Sỹ,Stuhrling Original,10521000
 43.8,Mineral Crystal,thép không gỉ,Eco-Drive ,5,Nhật Bản,Citizen,4851000
-38.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
+38.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 48.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,735000
-48.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,735000
-43.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1134000
+48.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,735000
+43.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1134000
 44.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,6278000
 42.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,3069000
 37.0,Sapphire Crystal,dây da,Quartz,5,Đức,Bruno Sohnle,7092000
 33.0,Mineral Crystal,thép không gỉ,Quartz,3,Nhật Bản,Citizen,3321000
 40.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,6804000
-43.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,994000
+43.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,994000
 40.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,7299000
 42.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Atlantic Swiss,31689000
 43.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,5603000
 43.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,5603000
-44.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,950000
+44.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,950000
 42.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,8226000
 41.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Citizen,5292000
 44.0,Krysternacrystal,dây da,Quartz,10,Thụy Sỹ,Stuhrling Original,5508000
@@ -1829,7 +1825,7 @@
 41.0,Mineral Crystal,dây da,Quartz,5,Nhật Bản,Citizen,4176000
 42.0,Krysternacrystal,dây da,Automatic,5,Thụy Sỹ,Stuhrling Original,9594000
 42.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1325000
-44.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Casio,3110000
+44.0,Mineral Crystal,thép không gỉ,Quartz,10,Thụy sỹ,Casio,3110000
 42.0,Krysternacrystal,dây da,Automatic,5,Thụy Sỹ,Stuhrling Original,10701000
 39.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,2952000
 39.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,33120000
@@ -1847,7 +1843,7 @@
 42.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Atlantic Swiss,25812000
 38.3,Sapphire Crystal,dây da,Quartz,5,Đức,Bruno Sohnle,12447000
 40.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,637000
-40.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,637000
+40.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,637000
 42.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,10458000
 42.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Atlantic Swiss,25812000
 40.0,Sapphire Crystal,dây da,Hand-Wound,3,Thụy Sỹ,Epos Swiss,32850000
@@ -1879,13 +1875,13 @@
 36.0,Sapphire Crystal,thép không gỉ,Quartz,3,Singapore,Aries Gold,4478000
 40.0,Sapphire Crystal,dây da,Quartz,5,Đức,Bruno Sohnle,10080000
 40.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
-40.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+40.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 54.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1563000
 45.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1688000
-42.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1210000
+42.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1210000
 40.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,4671000
 37.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,540000
-52.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
+52.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
 43.5,Sapphire Crystal,dây da,Hand-Wound,5,Thụy Sỹ,Epos Swiss,53820000
 42.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,3888000
 35.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1177000
@@ -1894,35 +1890,34 @@
 44.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,4410000
 43.0,Hardened Crystex Crystal,thép không gỉ mạ demi pvd,Quartz,20,Áo,Jacques lemans,8586000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,24390000
-44.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
-38.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+44.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
+38.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 40.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,6498000
 40.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,6498000
 42.0,Sapphire Crystal,dây da,Automatic,5,Singapore,Aries Gold,9133000
 44.0,Sapphire Crystal,dây da,Quatz ,5,Singapore,Aries Gold,5292000
 42.0,Krysternacrystal,dây da,Quartz,5,Nhật Bản,Stuhrling Original,5697000
-39.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
+39.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
 42.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,6228000
-36.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1177000
+36.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1177000
 39.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,540000
 43.0,Sapphire Crystal,thép không gỉ ,Quartz,10,Đức,Bruno Sohnle,20790000
 40.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,540000
-50.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1895000
-40.0,Sapphire Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1944000
+50.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1895000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Q&Q,1944000
 47.0,Krysternacrystal,thép không gỉ,Hand-Wound,5,Thụy Sỹ,Stuhrling Original,5571000
 48.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
-47.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
+47.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
 47.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
 42.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,8046000
 42.0,Krysternacrystal,thép không gỉ,Quartz,5,Thụy Sỹ,Stuhrling Original,7677000
-44.8,Sapphire Crystal,dây da,Automatic,5,Nhật Bản,Tourbillon Memorigin,229500000
 50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,886000
 40.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,3366000
 42.0,Mineral Crystal,thép không gỉ,Eco-Drive ,5,Nhật Bản,Citizen,5886000
 39.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,648000
 41.0,Sapphire Crystal,thép không gỉ mạ pvd,Automatic,10,Đức,Bruno Sohnle,36387000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,50130000
-39.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,767000
+39.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,767000
 45.0,Sapphire Crystal,dây da,Quartz,5,Singapore,Aries Gold,7403000
 50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,725000
 50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,725000
@@ -1930,14 +1925,14 @@
 41.0,Sapphire Crystal,thép không gỉ,Automatic,10,Thụy Sỹ,Epos Swiss,41310000
 41.0,Sapphire Crystal,thép không gỉ,Automatic,10,Thụy Sỹ,Epos Swiss,38520000
 41.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,37260000
-50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
+50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
 41.0,Sapphire Crystal,thép không gỉ,Automatic,10,Thụy Sỹ,Epos Swiss,38520000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,34290000
 41.0,Mineral Crystal,thép không gỉ,Automatic,5,Nhật Bản,Citizen,4950000
 41.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,35910000
 41.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,37260000
 41.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,41310000
-54.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1080000
+54.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1080000
 41.0,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,35910000
 40.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,10062000
 38.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,4752000
@@ -1946,7 +1941,7 @@
 42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Singapore,Aries Gold,4478000
 40.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,8046000
 41.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,11502000
-44.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1134000
+44.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1134000
 39.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,10917000
 42.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,5571000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Singapore,Aries Gold,6953000
@@ -1954,14 +1949,14 @@
 40.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Singapore,Aries Gold,4925000
 35.0,Sapphire Crystal,thép không gỉ mạ demi pvd,Quartz,5,Singapore,Aries Gold,4925000
 38.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
-42.0,Mineral Crystal,thép không gỉ,Quartz,10,Nhật Bản,Citizen,5121000
-40.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1215000
-39.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,972000
+42.0,Sapphire Crystal,thép không gỉ,Quartz,10,Nhật Bản,Citizen,5121000
+40.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1215000
+39.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,972000
 42.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,4761000
 38.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,12582000
-42.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1609000
+42.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1609000
 42.0,Sapphire Crystal,thép không gỉ ,Automatic,5,Thụy Sỹ,Atlantic Swiss,23175000
-42.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1325000
+42.0,Sapphire Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1325000
 42.0,Krysternacrystal,dây da,Automatic,5,Thụy Sỹ,Stuhrling Original,9774000
 41.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,5292000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,24390000
@@ -1973,7 +1968,7 @@
 48.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,1080000
 39.5,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,60840000
 36.0,Krysternacrystal,dây da,Quartz,5,Thụy Sỹ,Stuhrling Original,8539000
-40.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,637000
+40.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,637000
 39.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,27810000
 40.0,Sapphire Crystal,thép không gỉ,Automatic,3,Thụy Sỹ,Epos Swiss,55530000
 42.0,Sapphire Crystal,dây da,Quartz,10,Đức,Bruno Sohnle,12447000
@@ -1989,7 +1984,7 @@
 40.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,32130000
 41.7,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,60390000
 35.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,4028000
-42.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+42.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 38.5,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,25830000
 40.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,32130000
 39.0,Sapphire Crystal,thép không gỉ mạ pvd rose gold,Automatic,3,Thụy Sỹ,Epos Swiss,38520000
@@ -2017,23 +2012,23 @@
 38.0,Hardened Crystex Crystal,thép không gỉ,Quartz,5,Áo,Jacques lemans,3366000
 50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1350000
 41.0,Hardened Crystex Crystal,dây da,Quartz,10,Áo,Jacques lemans,5193000
-46.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1112000
+46.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1112000
 42.0,Mineral Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,3888000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,63270000
 42.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,540000
 40.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1210000
-46.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,994000
+46.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,994000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,63270000
 43.0,Mineral Crystal,dây da,Quartz,5,Singapore,Aries Gold,3193000
 40.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,27180000
 44.0,Hardened Crystex Crystal,dây da,Automatic,20,Áo,Jacques lemans,7803000
 44.0,Hardened Crystex Crystal,dây da,Automatic,20,Áo,Jacques lemans,9108000
 42.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1112000
-42.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1112000
-51.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
-32.0,Mineral Crystal,dây da,Quartz,3,Mỹ,Casio,778000
+42.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1112000
+51.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
+32.0,Mineral Crystal,dây da,Quartz,3,Áo,Casio,778000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,34290000
-50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
+50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1382000
 50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
 42.0,Krysternacrystal,thép không gỉ,Automatic,5,Thụy Sỹ,Stuhrling Original,13122000
 33.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
@@ -2047,30 +2042,30 @@
 38.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,72090000
 42.0,Perspex,thép không gỉ mạ pvd,Quartz,5,Áo,Jacques lemans,9108000
-39.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,540000
+39.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,540000
 41.0,Sapphire Crystal,dây da,Hand-Wound,5,Thụy Sỹ,Epos Swiss,51390000
-42.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,540000
+42.0,Mineral Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,540000
 42.0,Krysternacrystal,dây da,Automatic,5,Thụy Sỹ,Stuhrling Original,7794000
 41.0,Sapphire Crystal,thép không gỉ,Hand-Wound,5,Thụy Sỹ,Epos Swiss,55080000
 41.0,Sapphire Crystal,thép không gỉ,Hand-Wound,5,Thụy Sỹ,Epos Swiss,46260000
 41.0,Sapphire Crystal,dây da,Hand-Wound,5,Thụy Sỹ,Epos Swiss,43560000
-36.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1177000
+36.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1177000
 41.0,Sapphire Crystal,thép không gỉ,Hand-Wound,5,Thụy Sỹ,Epos Swiss,46260000
 41.0,Sapphire Crystal,dây da,Hand-Wound,5,Thụy Sỹ,Epos Swiss,43560000
 38.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
-48.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
+48.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,10,Thụy Sỹ,Epos Swiss,41580000
 42.0,Sapphire Crystal,thép không gỉ,Automatic,10,Thụy Sỹ,Epos Swiss,31770000
 43.0,Sapphire Crystal,thép không gỉ,Automatic,50,Thụy Sỹ,Epos Swiss,38520000
 47.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
 43.0,Sapphire Crystal,thép không gỉ,Automatic,50,Thụy Sỹ,Epos Swiss,38520000
-47.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
+47.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,864000
 40.0,Mineral Crystal,hợp kim thép,Quartz,5,Nhật Bản,Q&Q,1048000
 35.0, Resin Glass,dây da,Quartz,3,Thụy sỹ,Casio,1510000
 45.0,Sapphire Crystal,dây da,Hand-Wound,5,Thụy Sỹ,Epos Swiss,55980000
 33.0,Sapphire Crystal,dây nhựa,Quartz,10,Nhật Bản,Q&Q,540000
 35.0,Sapphire Crystal,thép không gỉ mạ pvd,Quartz,5,Singapore,Aries Gold,4925000
-40.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+40.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 39.0,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,31410000
 40.0,Sapphire Crystal,dây da,Automatic,3,Thụy Sỹ,Epos Swiss,50670000
 42.0,Sapphire Crystal,dây da,Hand-Wound,5,Thụy Sỹ,Epos Swiss,44100000
@@ -2092,23 +2087,23 @@
 46.0,Sapphire Crystal,dây da,Quartz,5,Singapore,Aries Gold,7403000
 50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,725000
 41.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,41220000
-50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,725000
+50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,725000
 38.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,659000
-50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,725000
+50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,725000
 50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,725000
 38.5,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,40050000
 38.3,Sapphire Crystal,dây da,Quartz,5,Đức,Bruno Sohnle,11817000
 38.5,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,40050000
-40.3,Hardlex Crystal,dây da,Touch Solar,7,Thụy Sỹ,Epos Swiss,41580000
+40.0,Hardlex Crystal,thép không gỉ,Touch Solar,10,Thụy Sỹ,Epos Swiss,41580000
 44.0,Krysternacrystal,dây da,Automatic,5,Thụy Sỹ,Stuhrling Original,10521000
 41.7,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,60390000
 36.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,18513000
-50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
+50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
 41.7,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,68670000
-50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
+50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
 38.5,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,41580000
 41.0,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,41490000
-50.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
+50.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1015000
 41.7,Sapphire Crystal,thép không gỉ,Automatic,5,Thụy Sỹ,Epos Swiss,68670000
 40.0,Hardened Crystex Crystal,thép không gỉ,Quartz,10,Áo,Jacques lemans,6498000
 41.0,Mineral Crystal,dây da,Automatic,5,Nhật Bản,Citizen,5121000
@@ -2128,10 +2123,10 @@
 38.5,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,41220000
 42.0,Sapphire Crystal,dây da,Quartz,5,Thụy Sỹ,Atlantic Swiss,12933000
 42.0,Perspex,dây da,Quartz,5,Áo,Jacques lemans,5193000
-47.0,Sapphire Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
-36.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
+47.0,Mineral Crystal,dây cao su,Quartz,10,Nhật Bản,Q&Q,1080000
+36.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,767000
 42.0,Hardened Crystex Crystal,dây da,Quartz,5,Áo,Jacques lemans,5193000
-40.0,Mineral Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,724000
+40.0,Sapphire Crystal,dây da,Quartz,3,Nhật Bản,Q&Q,724000
 40.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,950000
 42.0,Mineral Crystal,thép không gỉ,Quartz,5,Nhật Bản,Citizen,4347000
 42.0,Sapphire Crystal,dây da,Quartz,10,Đức,Bruno Sohnle,19215000
@@ -2167,23 +2162,22 @@
 40.0,Krysternacrystal,dây da,Quartz,5,Nhật Bản,Stuhrling Original,5634000
 44.0,Sapphire Crystal,thép không gỉ,Quartz,5,Singapore,Aries Gold,4752000
 40.5,Sapphire Crystal,dây da,Quartz,10,Đức,Bruno Sohnle,16857000
-39.0,Mineral Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1069000
+39.0,Sapphire Crystal,hợp kim thép,Quartz,3,Nhật Bản,Q&Q,1069000
 39.5,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,59490000
 39.5,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,59490000
 43.0,Sapphire Crystal,dây da,Automatic,5,Thụy Sỹ,Epos Swiss,30870000
 39.5,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,60840000
 39.5,Sapphire Crystal,dây da,Automatic,10,Thụy Sỹ,Epos Swiss,60840000
 43.0,Sapphire Crystal,dây da,Quartz,10,Đức,Bruno Sohnle,21267000
-40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1607000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1607000
 40.8,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Orient,11760000
 47.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
-39.9,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1710000
+39.9,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1710000
 53.0,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,4612000
-40.0,Sapphire Crystal,dây da,Hand-Wound,3, Thụy Sỹ, Doxa (Phiên bản giới hạn 1000 chiếc trên toàn thế giới),135830000
 42.0,Sapphire Crystal,dây da,Quartz,3, Thụy Sỹ, Tissot,14700000
 40.0,Mineral Crystal, thép không gỉ,Quartz,10, Nhật Bản, Casio,2280000
-38.5,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1347000
 38.5,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1347000
+38.5,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1347000
 41.0,Mineral Crystal,dây da,Automatic,5, Nhật Bản, Orient,22300000
 40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Citizen,3685000
 43.0,Mineral Crystal,dây da,Automatic,5, Nhật Bản, Orient,8690000
@@ -2205,20 +2199,19 @@
 48.9,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,3524000
 38.5,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Orient,9320000
 40.0,Sapphire Crystal, thép không gỉ,Quartz,5, Thụy Sỹ, Doxa,18190000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1607000
+40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1607000
 40.8,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Orient,11760000
 47.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 39.9,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1710000
 53.0,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,4612000
-40.0,Sapphire Crystal,dây da,Hand-Wound,3, Thụy Sỹ, Doxa (Phiên bản giới hạn 1000 chiếc trên toàn thế giới),135830000
 42.0,Sapphire Crystal,dây da,Quartz,3, Thụy Sỹ, Tissot,14700000
 40.0,Mineral Crystal, thép không gỉ,Quartz,10, Nhật Bản, Casio,2280000
-38.5,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1347000
+38.5,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1347000
 38.5,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1347000
 41.0,Mineral Crystal,dây da,Automatic,5, Nhật Bản, Orient,22300000
 40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Citizen,3685000
 43.0,Mineral Crystal,dây da,Automatic,5, Nhật Bản, Orient,8690000
-36.8, Resin Glass ,dây da,Quartz,3, Nhật Bản, Casio,856000
+36.8, Resin Glass ,thép không gỉ,Quartz,3, Nhật Bản, Casio,856000
 46.6, Resin Glass , dây cao su,Touch Solar,10, Nhật Bản, Casio,2203000
 48.5,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3356000
 38.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,932000
@@ -2236,14 +2229,14 @@
 48.9,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,3524000
 38.5,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Orient,9320000
 40.0,Sapphire Crystal, thép không gỉ,Quartz,5, Thụy Sỹ, Doxa,18190000
-43.8,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
+43.8,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
 41.5,Sapphire Crystal, thép không gỉ, Eco-Drive ,10, Nhật Bản, Citizen,8000000
 38.9, Resin Glass ,dây da,Quartz,5, Nhật Bản, Casio,1917000
 42.0,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Citizen,11185000
 39.0,Sapphire Crystal, thép không gỉ,Quartz,3, Thụy Sỹ, Doxa,19150000
 40.0,Mineral Crystal, thép không gỉ,Automatic,5, Nhật Bản, Citizen,5785000
 37.0,Sapphire Crystal, thép không gỉ, Eco-Drive ,5, Nhật Bản, Citizen,7800000
-47.0,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
+47.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 40.0,Mineral Crystal,dây da,Quartz,3, Thụy Điển, Daniel Wellington,6010000
 39.0,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Longines,50312000
 40.2,Sapphire Crystal, thép không gỉ, Eco-Drive ,5, Nhật Bản, Citizen,9685000
@@ -2283,7 +2276,7 @@
 41.0,Sapphire Crystal, thép không gỉ,Automatic,10, Thụy Sỹ, Doxa,43650000
 41.5,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,28620000
 37.8, Hardlex Crystal ,dây da,Touch Solar,3, Nhật Bản, Seiko,4350000
-43.8,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
+43.8,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
 39.3,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Tissot,22750000
 41.0,Mineral Crystal, thép không gỉ,Quartz,10, Nhật Bản, Orient,3080000
 42.0,Sapphire Crystal,dây da,Quartz,3, Thụy Sỹ, Tissot,7700000
@@ -2291,20 +2284,16 @@
 39.0,Sapphire Crystal, thép không gỉ,Quartz,5, Thụy Sỹ, Doxa,16790000
 42.0,Mineral Crystal, thép không gỉ,Quartz,10, Nhật Bản, Citizen,4270000
 45.0,Sapphire Crystal,dây da,Automatic,10, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 299 Chiếc Trên Toàn Thế Giới),81030000
-42.0,Sapphire Crystal, thép không gỉ,Automatic,10, Thụy Sỹ, Doxa (Phiên bản giới hạn 1000 chiếc trên toàn thế giới),141570000
-42.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ," Doxa (Phiên bản kỷ niệm 125 năm, giới hạn 300 chiếc trên toàn thế giới)",160400000
-42.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Doxa (Phiên bản giới hạn 500 chiếc trên toàn thế giới),166500000
 40.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Doxa,28000000
 38.5,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Orient,9320000
 40.5,Mineral Crystal,dây da,Automatic,3, Nhật Bản, Orient,7510000
 43.0,Mineral Crystal,dây da,Automatic,5, Nhật Bản, Orient,8050000
 55.0,Mineral Crystal, cao su,Quartz,20, Nhật Bản, Casio,4145000
 44.0,Mineral Crystal,dây da,Quartz,5, Mỹ, Fossil,3120000
-33.5, Resin Glass ,thép không gỉ,Quartz,3, Nhật Bản, Casio,1892000
+33.5, Resin Glass ,dây da,Quartz,3, Nhật Bản, Casio,1892000
 38.0,Sapphire Crystal, dây vải,Quartz,3, Thụy Sỹ, Tissot,7350000
 55.2,Mineral Crystal, dây cao su,Touch Solar,20, Nhật Bản, Casio,10882000
 41.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,35470000
-42.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Doxa (Phiên bản giới hạn 800 chiếc trên toàn thế giới),154930000
 40.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,37680000
 40.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Doxa,37410000
 39.0,Sapphire Crystal,dây da,Hand-Wound,3, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 1000 Chiếc Trên Toàn Thế Giới),78380000
@@ -2322,13 +2311,13 @@
 39.0,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Tissot,17500000
 42.0,Sapphire Crystal,dây da,Quartz,3, Thụy Sỹ, Tissot,13300000
 43.5,Mineral Crystal, thép không gỉ,Quartz,5, Nhật Bản, Casio,2177000
-38.5,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1243000
+38.5,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1243000
 41.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,2177000
 40.0,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Citizen,7985000
-41.5,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1322000
+41.5,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1322000
 38.5,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1243000
 43.8,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
-42.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2177000
+42.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,2177000
 38.5,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1140000
 50.8,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,8576000
 42.0,Sapphire Crystal, thép không gỉ,Quartz,3, Thụy Sỹ, Tissot,12600000
@@ -2347,15 +2336,15 @@
 40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1243000
 45.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1243000
 38.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,960000
-38.5,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1347000
+38.5,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1347000
 42.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2099000
 44.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3356000
 47.0,Mineral Crystal, thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
-43.8,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
+43.8,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
 39.3,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Tissot,19250000
-40.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,2177000
-39.4,Hardlex Crystal,dây da,Touch Solar,10,Thụy sỹ, OrientSố Hiệu Sản Phẩm,3440000
-40.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1813000
+40.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,2177000
+41.8,Acrylic Crystal,thép không gỉ,Touch Solar,7,Nhật Bản, OrientSố Hiệu Sản Phẩm,3440000
+40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1813000
 45.6,Sapphire Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,5182000
 40.0,Sapphire Crystal,dây da,Automatic,3, Thụy Sỹ, Tissot,23450000
 45.0, Resin Glass , dây cao su,Quartz,10, Nhật Bản, Casio,856000
@@ -2372,10 +2361,10 @@
 39.0,Sapphire Crystal,dây da,Quartz,3, Thụy Sỹ, Doxa,18700000
 57.5,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,3524000
 36.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1011000
-41.5,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1322000
+41.5,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1322000
 42.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2099000
-38.5,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1581000
-38.5,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1140000
+38.5,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1581000
+38.5,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1140000
 43.0,Mineral Crystal, thép không gỉ,Quartz,5, Nhật Bản, Orient,2990000
 38.0,Sapphire Crystal,dây da,Quartz,5, Nhật Bản, Orient,4520000
 41.7,Mineral Crystal, thép không gỉ,Automatic,5, Nhật Bản, Orient,7800000
@@ -2383,7 +2372,7 @@
 40.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,37830000
 41.0,Mineral Crystal,dây da,Automatic,5, Nhật Bản, Orient,7330000
 51.0,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,5337000
-41.7,Mineral Crystal, thép không gỉ,Automatic,5,Mỹ,Casio,7800000
+41.7,Mineral Crystal, thép không gỉ,Automatic,5,Thụy sỹ,Casio,7800000
 40.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Frederique Constant,58360000
 40.0,Sapphire Crystal, dây vải, Eco-Drive ,3, Nhật Bản, Citizen,5600000
 41.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,2177000
@@ -2399,20 +2388,18 @@
 40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1243000
 45.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1503000
 40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1607000
-41.5,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1503000
+41.5,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1503000
 45.0, Resin Glass , dây vải,Quartz,10, Nhật Bản, Casio,1218000
 40.0,Mineral Crystal, thép không gỉ,Quartz,5, Nhật Bản, Casio,1917000
 42.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,932000
 40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1140000
-40.0,Sapphire Crystal,dây da,Hand-Wound,3, Thụy Sỹ, Doxa (Phiên bản giới hạn 1000 chiếc toàn thế giới),135830000
 45.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1347000
 40.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1607000
-42.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,2177000
+42.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2177000
 42.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2099000
 40.0,Mineral Crystal, thép không gỉ,Quartz,5, Nhật Bản, Casio,1607000
 40.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,38690000
 41.0,Sapphire Crystal, thép không gỉ,Automatic,10, Thụy Sỹ, Doxa,28860000
-40.0,Sapphire Crystal,dây da,Automatic,3, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 500 Chiếc Trên Toàn Thế Giới),130090000
 41.5,Mineral Crystal, thép không gỉ,Automatic,20, Nhật Bản, Orient,8600000
 40.0,Mineral Crystal, thép không gỉ,Automatic,5, Nhật Bản, Citizen,5785000
 35.4,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Longines,33440000
@@ -2452,7 +2439,7 @@
 36.5,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Longines,54625000
 43.5,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2099000
 44.0, Resin Glass , dây cao su,Quartz,10, Nhật Bản, Casio,856000
-38.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,1503000
+38.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1503000
 42.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 800 Chiếc Trên Toàn Thế Giới),97430000
 40.0,Sapphire Crystal,dây da,Automatic,5, Nhật Bản, Citizen,8600000
 39.9,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,1710000
@@ -2481,7 +2468,6 @@
 38.0,Sapphire Crystal, thép không gỉ,Quartz,3, Thụy Sỹ, Frederique Constant,18860000
 30.4,Sapphire Crystal,dây da,Automatic,3, Thụy Sỹ, Frederique Constant,39040000
 30.4,Sapphire Crystal,dây da,Automatic,3, Thụy Sỹ, Frederique Constant,30070000
-42.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Frederique Constant (Phiên Bản Giới Hạn 1888 Chiếc Trên Toàn Thế Giới),107620000
 42.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Frederique Constant (Phiên Bản Giới Hạn 888 Chiếc Trên Toàn Thế Giới),55810000
 41.0,Sapphire Crystal, thép không gỉ,Automatic,30, Thụy Sỹ, Longines,51528000
 38.5,Sapphire Crystal, thép không gỉ,Quartz,5, Việt Nam, Koi,2910000
@@ -2489,9 +2475,6 @@
 38.5,Sapphire Crystal, thép không gỉ,Quartz,5, Việt Nam, Koi,3450000
 38.5,Sapphire Crystal,dây da,Quartz,5, Việt Nam, Koi,2380000
 38.5,Sapphire Crystal,dây da,Quartz,5, Việt Nam, Koi,2380000
-41.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 399 Chiếc Trên Toàn Thế Giới),135700000
-42.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 800 Chiếc Trên Toàn Thế Giới),127300000
-42.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 800 Chiếc Trên Toàn Thế Giới),127300000
 40.0,Mineral Crystal, dây vải,Quartz,5, Mỹ, Fossil (Phiên bản giới hạn),5740000
 43.0,Sapphire Crystal, thép không gỉ,Automatic,5, Mỹ, Fossil (Phiên bản giới hạn),14280000
 40.0,Mineral Crystal, dây vải,Quartz,5, Mỹ, Fossil (Phiên bản giới hạn),5740000
@@ -2499,10 +2482,10 @@
 40.0, Hardlex Crystal , dây vải,Automatic,5, Nhật Bản, Seiko,6730000
 38.0,Mineral Crystal, thép không gỉ,Automatic,5, Mỹ, Fossil,8590000
 42.0,Sapphire Crystal, thép không gỉ,Automatic,10, Thụy Sỹ, Tissot,56000000
-46.9,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
+46.9,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
 49.6, Resin Glass ,thép không gỉ,Quartz,10, Nhật Bản, Casio,2203000
 49.6, Resin Glass , dây cao su,Quartz,10, Nhật Bản, Casio,1737000
-49.6, Resin Glass ,dây da,Quartz,10, Nhật Bản, Casio,2203000
+49.6, Resin Glass ,thép không gỉ,Quartz,10, Nhật Bản, Casio,2203000
 49.4,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,5441000
 49.4,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,5441000
 39.7,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2591000
@@ -2526,8 +2509,6 @@
 39.3,Sapphire Crystal,dây da,Automatic,3, Thụy Sỹ, Tissot,21000000
 37.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,34850000
 37.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,33200000
-42.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,137050000
-40.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Doxa,122550000
 42.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 800 Chiếc Trên Toàn Thế Giới),81990000
 42.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 800 Chiếc Trên Toàn Thế Giới),79900000
 40.2,Sapphire Crystal, thép không gỉ,Quartz,10, Thụy Sỹ, Certina,14100000
@@ -2581,11 +2562,11 @@
 55.0,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,4047000
 48.9,Mineral Crystal, dây cao su,Touch Solar,20, Nhật Bản, Casio,4540000
 48.5,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,3628000
-37.7, Resin Glass ,thép không gỉ,Quartz,3, Nhật Bản, Casio,1451000
+37.7, Resin Glass ,dây da,Quartz,3, Nhật Bản, Casio,1451000
 41.6,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1813000
-40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,3161000
-40.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,3161000
-43.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,2487000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,3161000
+40.0,Mineral Crystal,thép không gỉ,Quartz,5, Nhật Bản, Casio,3161000
+43.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2487000
 43.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2384000
 43.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Casio,2487000
 37.7, Resin Glass ,thép không gỉ,Quartz,3, Nhật Bản, Casio,2539000
@@ -2641,14 +2622,14 @@
 42.0,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Orient,20060000
 40.7, Resin Glass ,dây da,Quartz,3, Nhật Bản, Casio,1633000
 51.2, Resin Glass , dây cao su,Quartz,10, Nhật Bản, Casio,1243000
-38.6, Resin Glass ,dây da,Quartz,3, Nhật Bản, Casio,2876000
+38.6, Resin Glass ,thép không gỉ,Quartz,3, Nhật Bản, Casio,2876000
 41.0, Resin Glass , dây cao su,Quartz,3, Nhật Bản, Casio,466000
 49.6,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,7074000
-41.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,3239000
+41.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,3239000
 41.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,2384000
 41.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,3239000
-41.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,3239000
-41.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,2384000
+41.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,3239000
+41.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,2384000
 49.0, Resin Glass , dây cao su,Quartz,10, Nhật Bản, Casio,1347000
 38.5,Sapphire Crystal,dây da,Automatic,3, Thụy Sỹ, Longines,57500000
 39.0,Sapphire Crystal, thép không gỉ,Automatic,30, Thụy Sỹ, Longines,35937000
@@ -2679,7 +2660,7 @@
 43.9,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3036000
 43.9,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3036000
 43.9,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3036000
-43.9,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
+43.9,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 43.9,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 43.9,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 52.5, Resin Glass , dây cao su,Quartz,10, Nhật Bản, Casio,1658000
@@ -2707,7 +2688,7 @@
 40.2,Mineral Crystal, thép không gỉ,Automatic,5, Nhật Bản, Citizen,8570000
 40.2,Mineral Crystal, thép không gỉ,Automatic,5, Nhật Bản, Citizen,8570000
 40.2,Mineral Crystal, thép không gỉ,Automatic,5, Nhật Bản, Citizen ,8570000
-41.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1633000
+41.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1633000
 41.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1633000
 41.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1243000
 41.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1243000
@@ -2752,13 +2733,13 @@
 40.2,Sapphire Crystal, thép không gỉ,Quartz,10, Nhật Bản, Seiko,8040000
 38.3,Sapphire Crystal, thép không gỉ,Automatic,3, Nhật Bản, Seiko,17290000
 42.0,Sapphire Crystal,dây da,Automatic,30, Thụy Sỹ, Rado,85000000
-41.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,2280000
+41.0,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,2280000
 40.0,Mineral Crystal, thép không gỉ,Quartz,3, Thụy Điển, Daniel Wellington,6468000
 42.0,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Orient,18600000
 41.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Frederique Constant,58820000
 41.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Frederique Constant,57200000
 41.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Frederique Constant,54190000
-40.0, Resin Glass,dây da,Automatic,5, Nhật Bản,Casio,7985000
+40.0,Hardlex Crystal,dây da,Quartz,5, Nhật Bản,Casio,7985000
 40.0, Hardlex Crystal , thép không gỉ,Quartz,10, Nhật Bản, Seiko,7070000
 41.0,Mineral Crystal, thép không gỉ,Automatic,3, Nhật Bản, Orient,12850000
 41.0,Mineral Crystal,dây da,Automatic,3, Nhật Bản, Orient,11490000
@@ -2776,12 +2757,10 @@
 40.8,Sapphire Crystal,dây da,Automatic,5, Nhật Bản, Orient,9050000
 39.0,Sapphire Crystal, thép không gỉ,Quartz,5, Nhật Bản, Seiko,5380000
 39.0,Sapphire Crystal,dây da,Quartz,5, Nhật Bản, Seiko,4890000
-46.2, Resin Glass ,thép không gỉ,Quartz,5, Nhật Bản, Casio,1555000
-44.0,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
+46.2, Resin Glass ,dây da,Quartz,5, Nhật Bản, Casio,1555000
+44.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 40.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Tissot,19250000
-37.5,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,139940000
 41.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Frederique Constant,58820000
-39.8,Sapphire Crystal,dây da,Automatic,3, Thụy Sỹ, Tissot,108500000
 43.6, Resin Glass , dây cao su,Quartz,5, Nhật Bản, Casio,570000
 39.0,Mineral Crystal, thép không gỉ,Automatic,3, Nhật Bản, Orient,4340000
 40.2,Mineral Crystal,dây da,Automatic,5, Nhật Bản, Citizen,9077000
@@ -2872,7 +2851,7 @@
 39.0,Mineral Crystal, thép không gỉ,Quartz,5, Nhật Bản, Citizen,3285000
 41.0, Hardlex Crystal ,dây da,Automatic,10, Nhật Bản, Seiko,10020000
 43.8,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
-43.8,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
+43.8,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 40.0,Mineral Crystal,dây da,Automatic,5, Nhật Bản, Citizen,5585000
 40.5,Mineral Crystal,dây da,Automatic,5, Nhật Bản, Orient,6790000
 40.0,Sapphire Crystal, thép không gỉ,Automatic,3, Nhật Bản, Olym Pianus ,6870000
@@ -2904,8 +2883,8 @@
 40.5,Mineral Crystal,dây da,Automatic,3, Nhật Bản, Orient,7510000
 41.0,Mineral Crystal,dây da,Quartz,5, Thụy Sỹ, Candino,7080000
 48.4, Resin Glass , dây cao su,Quartz,10, Nhật Bản, Casio,1271000
-47.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 47.0,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
+47.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 48.9,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,3368000
 44.0,Mineral Crystal,dây da,Quartz,5, Nhật Bản, Fossil,4610000
 40.0,Mineral Crystal, dây vải,Quartz,3, Thụy Điển, Daniel Wellington,4940000
@@ -2936,7 +2915,7 @@
 46.6, Resin Glass , dây cao su,Touch Solar,10, Nhật Bản, Casio,2203000
 40.5, Hardlex Crystal ,dây da,Automatic,5, Nhật Bản, Seiko,14475000
 44.0,Mineral Crystal,dây da,Automatic,5, Mỹ, Fossil,6880000
-47.0,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
+47.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
 41.0,Mineral Crystal, thép không gỉ,Automatic,20, Nhật Bản, Orient,8600000
 44.0,Mineral Crystal,dây da,Quartz,5, Mỹ, Fossil,3750000
 40.0,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Tissot,23450000
@@ -2960,7 +2939,6 @@
 38.0,Sapphire Crystal,dây da,Automatic,3, Thụy Sỹ, Movado,44800000
 35.0,Sapphire Crystal,dây da,Automatic,3, Thụy Sỹ, Longines,31020000
 40.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,34520000
-42.0,Sapphire Crystal,dây da,Automatic,5, Thụy Sỹ, Doxa (Phiên Bản Giới Hạn 800 Chiếc Trên Toàn Thế Giới),126930000
 40.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,30930000
 40.0,Sapphire Crystal, thép không gỉ,Automatic,5, Thụy Sỹ, Doxa,33490000
 41.0,Sapphire Crystal,dây da,Automatic,10, Thụy Sỹ, Doxa,32450000
@@ -2988,11 +2966,11 @@
 36.0,Sapphire Crystal, thép không gỉ,Quartz,3, Thụy Sỹ, Candino,6730000
 41.5,Mineral Crystal, thép không gỉ,Automatic,20, Nhật Bản, Orient,8600000
 42.0,Sapphire Crystal, thép không gỉ,Automatic,5, Nhật Bản, Citizen,11985000
-47.0,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3529000
+47.0,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,3529000
 56.2,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,10001000
 39.0,Sapphire Crystal, thép không gỉ,Automatic,10, Thụy Sỹ, Tissot,19250000
 38.0,Mineral Crystal, thép không gỉ, Eco-Drive ,5, Nhật Bản, Citizen,6200000
-37.0,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1529000
+37.0,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1529000
 55.0,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,5233000
 42.0,Sapphire Crystal,dây da,Quartz,3, Thụy Sỹ, Tissot,13300000
 44.2, Resin Glass , dây cao su,Quartz,10, Nhật Bản, Casio,856000
@@ -3021,7 +2999,7 @@
 42.0,Sapphire Crystal,dây da,Quartz,3, Thụy Sỹ, Tissot,10500000
 35.4,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Longines,48875000
 42.0,Mineral Crystal, thép không gỉ,Quartz,3, Nhật Bản, Citizen,3285000
-37.2,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1140000
+37.2,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1140000
 55.0,Mineral Crystal, dây cao su,Quartz,20, Nhật Bản, Casio,4713000
 43.8,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,3356000
 42.0,Mineral Crystal, thép không gỉ,Quartz,5, Nhật Bản, Orient,4610000
@@ -3032,10 +3010,10 @@
 35.0,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Longines,30800000
 35.0,Sapphire Crystal, thép không gỉ,Automatic,3, Thụy Sỹ, Longines,30800000
 49.5,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,5898000
-35.5,Mineral Crystal,thép không gỉ,Quartz,3, Nhật Bản, Casio,1477000
-36.0, Resin Glass ,thép không gỉ,Quartz,3, Nhật Bản, Casio,1917000
-49.5,Mineral Crystal,thép không gỉ,Quartz,10, Nhật Bản, Casio,4984000
-50.0,Mineral Crystal,dây da,Quartz,20, Nhật Bản, Casio,3109000
+35.5,Mineral Crystal,dây da,Quartz,3, Nhật Bản, Casio,1477000
+36.0, Resin Glass ,dây da,Quartz,3, Nhật Bản, Casio,1917000
+49.5,Mineral Crystal,dây da,Quartz,10, Nhật Bản, Casio,4984000
+50.0,Mineral Crystal,thép không gỉ,Quartz,20, Nhật Bản, Casio,3109000
 39.0,Sapphire Crystal, thép không gỉ,Quartz,10, Thụy Sỹ, Tissot,11200000
 42.0,Sapphire Crystal, thép không gỉ,Quartz,3, Thụy Sỹ, Tissot,14700000
 42.0,Sapphire Crystal,dây da,Quartz,3, Thụy Sỹ, Tissot,9100000
